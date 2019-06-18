@@ -11,7 +11,11 @@ import { MenuLateralComponent } from './shared/menu-lateral/menu-lateral.compone
 import { HomeComponent } from './home/home.component';
 import { NoticiasComponent } from './noticias/noticias.component';
 import { CarouselComponent } from './carousel/carousel.component';
-import {CarouselModule} from 'ngx-bootstrap/carousel'
+import {CarouselModule} from 'ngx-bootstrap/carousel';
+import { CardComponent } from './card/card.component';
+import { ListaComponent } from './lista/lista.component'
+import { HttpClientModule } from '@angular/common/http';
+import { NoticiaDetailComponent } from './noticia-detail/noticia-detail.component';
 
 @NgModule({
   declarations: [
@@ -20,7 +24,10 @@ import {CarouselModule} from 'ngx-bootstrap/carousel'
     MenuLateralComponent,
     HomeComponent,
     NoticiasComponent,
-    CarouselComponent
+    CarouselComponent,
+    CardComponent,
+    ListaComponent,
+    NoticiaDetailComponent
   ],
   imports: [
     BrowserModule,
@@ -33,7 +40,8 @@ import {CarouselModule} from 'ngx-bootstrap/carousel'
     MatButtonModule, 
     FlexLayoutModule, 
     MatListModule,
-    CarouselModule.forRoot()
+    CarouselModule.forRoot(),
+    HttpClientModule
   ],
   providers: [],
   bootstrap: [AppComponent]

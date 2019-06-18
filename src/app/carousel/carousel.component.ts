@@ -1,4 +1,7 @@
 import { Component, OnInit } from '@angular/core';
+import { Noticia } from '../model/noticia';
+import { NoticiaService } from '../services/noticia.service';
+import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-carousel',
@@ -7,9 +10,18 @@ import { Component, OnInit } from '@angular/core';
 })
 export class CarouselComponent implements OnInit {
 
-  constructor() { }
+  public lista: Array<Noticia>;
+
+  constructor(private noticias:NoticiaService, private router: Router) { }
 
   ngOnInit() {
+    this.noticias.retornaNoticias().subscribe(
+      response => this.lista = response
+    )
+  }
+
+  abreNoticia(id:number){
+    this.router.navigate(['noticias/'+id]);
   }
 
 }

@@ -1,0 +1,53 @@
+{
+  "noticias": [
+    {
+      "id": 1,
+      "titulo": "Gol reforça café da manhã nas salas vip com bebidas nutritivas",
+      "texto": "A Gol, em parceria com a Coca-Cola, está oferecendo aos clientes com voos no período da manhã mais uma opção de alimentação. Neste e no próximo mês, todos que passarem pelo Gol Premium Lounge poderão degustar três novidades de bebidas preparadas com AdeS, com base 100% vegetal, sem lactose, isentas de colesterol e baixo teor de gorduras totais. As bebidas serão servidas de segunda a sábado, das 6h às 10h30, nas salas vip da companhia, localizadas nas áreas de embarque dos voos domésticos e internacionais, dos aeroportos de Guarulhos, entre os dias 3 a 29 de junho, e no Rio Galeão, de 10 de junho a 6 de julho. 'Promover novas experiências, conforto e oferecer produtos e serviços diferenciados faz parte da proposta da companhia e também das salas vip Gol Premium Lounge. Nestes espaços, o nosso intuito é transformar a espera do voo em um momento mais agradável e tranquilo', conta o gerente de Produtos da Gol, Ricardo Eloizo Silva De Oliveira.",
+      "imagem": "https://cdn.panrotas.com.br/portal-panrotas-statics/media-files-cache/277151/67d74b5ef1ead496946c9eac35ec50b6unnamed3/0,63,1280,764/670,400,0.36/0/default.jpg"
+    },
+    {
+      "id": 2,
+      "titulo": "Four Seasons administrará hotel em edifício em São Francisco",
+      "texto": "Com uma rica paisagem cultural, experiências gastronômicas e um mercado fortalecido pelo boom tecnológico da região, São Francisco é uma das cidades mais dinâmicas e prósperas dos EUA. Estamos ansiosos em construir essa parceria com a Westbrook Partners, gestora do prédio, e oferecer as melhores ofertas de hotéis e residências de luxo nesta cidade', diz o vice-presidente executivo de Desenvolvimento de Negócios Globais da rede, Bart Carnahan. Alojados nos onze andares mais altos do edifício de 48 andares, os 155 quartos e suítes do Four Season oferecem vista a importantes pontos turísticos de São Francisco, como a ponte Golden Gate e a ilha de Alcatraz. O hotel contará também com bar, restaurante e centro fitness e as renovações incluirão todos os apartamentos e suítes, corredores e outras áreas públicas, além da academia que será totalmente nova.",
+      "imagem": "https://cdn.panrotas.com.br/portal-panrotas-statics/media-files-cache/277148/d00cc3a24884f9fe9421a6bb7a9c6357emb001aspect16x9/0,0,1206,720/670,400,0.38/0/default.jpg"
+    },
+    {
+      "id": 3,
+      "titulo": "Norwegian Getaway é reformado para temporada de verão",
+      "texto": "O navio Norwegian Getaway acaba de chegar a Copenhague, na Dinamarca, renovado por completo. Além de ter recebido reformas nas cabines, com novos móveis e carpetes, agora a embarcação conta com novas áreas comuns para sua temporada de verão pela Escandinávia, Rússia e Báltico até o fim de outubro. Há, por exemplo, uma cafeteria Starbucks e um bar Syd Norman’s Pour House, além de espaços para banho de sol e um clube de dança para adultos. O beach club Vibe dobrou de tamanho, as cabines com varanda estão com novos decks e a piscina privativa com novas cabanas e pisos. 'Estamos muito orgulhosos de ter a última embarcação da classe Breakaway, o Norwegian Getaway, passando por uma reforma completa de proa a popa', disse o presidente e diretor executivo da Norwegian Cruise Line, Andy Stuart.",
+      "imagem": "https://cdn.panrotas.com.br/portal-panrotas-statics/media-files-cache/161641/97e80598612315d6da6676d7a0b13ae9getawayaerial15/0,32,1200,716/670,400,0.56/0/default.jpg"
+    },
+    {
+      "id": 4,
+      "titulo": "Veja algumas tendências para os eventos corporativos",
+      "texto": "Eventos corporativos são uma importante fatia da economia. De diversos tipos, eles movimentam uma vasta cadeia de serviços e envolvem milhares de profissionais. Em constante evolução, a cada dia surgem novidades. Quais são as tendências atuais deste mercado? Segundo o presidente da Alagev, Rodrigo Cezar, a curadoria do conteúdo de um evento é fundamental. Em vídeo na sua nova postagem no blog Espaço Alagev, da blogosfera do Portal PANROTAS, Cezar explica que é preciso saber o que e como será dito e, para isso, existem várias ferramentas. O dirigente também cita a questão da inovação, que é cada vez mais cobrada no setor. Para ele, inovar é pensar em cada persona, no que vai ser entregue para cada um dos participantes. Quer saber quais são as outras tendências na opinião do especialista?",
+      "imagem": "https://cdn.panrotas.com.br/portal-panrotas-statics/media-files-cache/272079/696efefba2105290a0b07bc72a4fe142dsc8946/0,21,1280,764/670,400,0.39/0/default.jpg"
+    },
+    {
+      "id": 5,
+      "titulo": "Hotel Le Meurice Paris reforma suítes",
+      "texto": "O hotel de luxo Le Meurice, em Paris, acaba de reformar 29 quartos e suítes, incluindo a da cobertura. O designer de interiores Charles Jouffre, que trabalha para o empreendimento há dez anos, convidou Margaux Lally e Luc Berger para desenharem a nova decoração. O conceito da obra foi criar uma versão moderna do Palácio de Versalhes, com tecidos franceses, móveis sob medida e obras de arte. “Os nossos designers mantiveram-se fiéis à nossa herança elegante, ao mesmo tempo que acrescentam toques modernos e uma verdadeira sensação de elegância”, conta a gerente-geral do hotel Le Meurice, Franka Holtmann.",
+      "imagem": "https://cdn.panrotas.com.br/portal-panrotas-statics/media-files-cache/277176/292ff79a6a5d695c89bd4aa88cde7fcdh638086793880lmpfacadebynightniallclutton/0,196,1280,764/670,400,0.39/0/default.jpg"
+    },
+    {
+      "id": 6,
+      "titulo": "Two Flex também pede slots para operar em Congonhas",
+      "texto": "A Two Flex Aviação Inteligente realizou nesta segunda-feira (17) um pedido à Anac para obter slots no Aeroporto de Congonhas, em São Paulo. O objetivo inicial, segundo a empresa, é operar rotas ligando Congonhas as cidades de Bauru, Franca e Barretos, no interior paulista, e Jacarepaguá, no Rio de Janeiro. A Two Flex foi anunciada na semana passada como a mais nova empresa associada à Abear.",
+      "imagem": "https://cdn.panrotas.com.br/portal-panrotas-statics/media-files-cache/276786/326562d5159c0752fd703367e60f8543twoflex/0,11,960,573/670,400,0.47/0/default.jpg"
+    },
+    {
+      "id": 7,
+      "titulo": "Jurassic World, no Universal, ganha bar e café temáticos",
+      "texto":"O Universal Studios Hollywood acaba de anunciar para este verão o Isla Nu-bar e o Jurassic Café na área Jurassic World - The Ride. Os cardápios de ambos são inspirados na cultura tiki e na culinária costarriquenha. Há também a loja Jurassic Outfitters, com souvenires e edições limitadas, como camisetas, esculturas, maquetes, bonés e joias. Ao ar livre e com teto de palha, o Isla Nu-bar, inspirado na ilha dos filmes Jurassic World, serve coquetéis, como margarita e piña colada em copos colecionáveis.",
+      "imagem": "https://cdn.panrotas.com.br/portal-panrotas-statics/media-files-cache/277186/0ab9119446c1bdb7e9bd35211221409ajurassicoutfitters2/0,92,640,382/670,400,0.33/0/default.jpg"
+    },
+    {
+      "id": 8,
+      "titulo": "Turistas com visto liberado começam a entrar no Brasil",
+      "texto": "Começam a chegar hoje (17) ao Brasil os turistas dos Estados Unidos, Austrália, Canadá e Japão beneficiados com a lei de isenção de visto. Eles podem permanecer por aqui até 90 dias prorrogáveis, sendo no máximo 180 dias a cada 12 meses. Pela manhã, os viajantes foram recebidos no aeroporto do Galeão (RJ) pelo ministro do Turismo, Marcelo Álvaro Antônio, e o secretário de Estado de Turismo do Rio de Janeiro, Otavio Leite. “Nossa intenção agora é fazer uma promoção forte nos Estados Unidos para que a ferramenta, que é uma novidade, possa chegar ao conhecimento de todos os americanos que queiram viajar”, afirma Leite. Dos 6,5 milhões de estrangeiros que vêm ao Brasil por ano, cerca de 2,3 milhões têm como destino o Rio de Janeiro, número que o secretário considera 'aquém do potencial do Estado'. Para o ministro do Turismo, Marcelo Álvaro Antônio, “é uma importante iniciativa que vai incrementar a nossa economia com pelo menos mais US$ 1 bilhão todos os anos. O Rio de Janeiro é o principal portão de entrada de turistas de lazer e vai ganhar muito com esta medida”. A expectativa do Plano Nacional de Turismo 2018-2022 é que o País chegue a receber 12 milhões de visitantes por ano.",
+      "imagem": "https://cdn.panrotas.com.br/portal-panrotas-statics/media-files-cache/277156/f220381ea4fa770578351f1b305af343turistasdoseuaaustraliacanadaejapaojapodementrarsemvistonobrasil1fotoflaviocabral/0,0,1169,698/670,400,0.42/0/default.jpeg"
+    }
+  ]
+ 
+}

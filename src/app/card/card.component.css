@@ -1,0 +1,13 @@
+img{
+    width: 100%;
+}
+
+#principal:hover{
+    background-color: lightgray;
+}
+
+#imagem{
+    padding: 0;
+}
+
+

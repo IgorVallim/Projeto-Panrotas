@@ -1,3 +1,15 @@
-<p *ngIf="noticia!=undefined">
-  {{noticia.titulo}}
-</p>
+<div class="col-12 col-lg-6" *ngIf="noticia!=undefined" id="principal">
+  <h1 class="d-none d-lg-block">
+    {{noticia.titulo}}
+  </h1>
+  <h4 class="d-block d-lg-none">
+    {{noticia.titulo}}
+  </h4>
+  <p>
+    {{noticia.texto}}
+  </p>
+  <img src={{noticia.imagem}} />
+</div>
+
+
+

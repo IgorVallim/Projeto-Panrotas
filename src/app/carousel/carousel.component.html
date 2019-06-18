@@ -3,7 +3,7 @@
     <img src={{item.imagem}} (click)="abreNoticia(item.id)" style="display: block; width: 100%;">
     <div class="carousel-caption">
       <h2 class="d-none d-md-block">{{item.titulo}}</h2>
-      <p class="d-block d-md-none">{{item.titulo}}</p>
+      <p class="d-block d-md-none" (click)="abreNoticia(item.id)">{{item.titulo}}</p>
     </div>
   </slide>
 </carousel>

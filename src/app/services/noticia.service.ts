@@ -7,7 +7,8 @@ import { HttpClient } from '@angular/common/http';
 })
 export class NoticiaService {
 
-  private readonly API = "http://localhost:3000/noticias";
+  //private readonly API = "http://localhost:3000/noticias";
+  private readonly API = "http://192.168.1.211:3000/noticias";
 
   constructor(private http: HttpClient) { }
 

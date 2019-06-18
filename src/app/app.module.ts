@@ -16,6 +16,8 @@ import { CardComponent } from './card/card.component';
 import { ListaComponent } from './lista/lista.component'
 import { HttpClientModule } from '@angular/common/http';
 import { NoticiaDetailComponent } from './noticia-detail/noticia-detail.component';
+import { ServiceWorkerModule } from '@angular/service-worker';
+import { environment } from '../environments/environment';
 
 @NgModule({
   declarations: [
@@ -41,7 +43,8 @@ import { NoticiaDetailComponent } from './noticia-detail/noticia-detail.componen
     FlexLayoutModule, 
     MatListModule,
     CarouselModule.forRoot(),
-    HttpClientModule
+    HttpClientModule,
+    ServiceWorkerModule.register('ngsw-worker.js', { enabled: environment.production })
   ],
   providers: [],
   bootstrap: [AppComponent]
